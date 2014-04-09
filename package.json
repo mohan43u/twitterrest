@@ -1,0 +1,26 @@
+{
+  "name": "twitterrest",
+  "version": "0.0.1",
+  "description": "wrapper around twitter api",
+  "main": "./lib/twitterrest",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "tunnel": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohan43u/twitterrest"
+  },
+  "keywords": [
+    "twitter",
+    "rest"
+  ],
+  "author": "Mohan R <mohan43u@gmail.com> (http://mohan43uweb-silentcrooks.rhcloud.com)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mohan43u/twitterrest/issues"
+  },
+  "homepage": "https://github.com/mohan43u/twitterrest"
+}
